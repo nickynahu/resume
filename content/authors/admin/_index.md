@@ -94,7 +94,7 @@ work:
     company_logo: ''
     date_start: 2021-10-01
     date_end: 2022-07-01
-    summary: |
+    summary: |2-
       Responsibilities include:
       - EMEA RFQ/Tender Management within JAS' global tender team
       - Pricing Analysis
@@ -105,7 +105,7 @@ work:
     company_logo: ''
     date_start: 2021-10-01
     date_end: 2022-07-01
-    summary: |
+    summary: |2-
       Responsibilities include:
       - Managing warehouse team of 6 people and 2000 SQM warehouse
       - New business implementation and warehouse advisory role to general MT
@@ -116,7 +116,7 @@ work:
     company_logo: ''
     date_start: 2017-07-01
     date_end: 2018-12-31
-    summary: |
+    summary: |2-
       Responsibilities include:
       - EMEA supply chain management of finished goods, parts, and accessories for designer, manufacturer, and seller of professional acoustic guitars
       - Managing warehouse team and distribution in EMEA territory.
@@ -126,16 +126,16 @@ work:
     company_logo: ''
     date_start: 2012-01-01
     date_end: 2017-06-31
-    summary: |
+    summary: |2-
       Responsibilities include:
       - Handling shipments and files (AWB/BL procedures, customs compliance, etc) from pickup to delivery for int'l air-, ocean- and trucking services. 
       - Maintaining contact with global offices and agents abroad, carriers, suppliers, customers and other vendors and internal departments and stakeholders.
       - Vendor management of air/ocean/trucking carriers and suppliers.
       - Training new employees.
       - Create and manage all internal external tariff structures and client proposals.
-      - Local IT management
-      - Set up air/ocean/trucking export departments
-      - IATA accreditation at AMS airport
+      - Local IT management.
+      - Set up air/ocean/trucking export departments.
+      - IATA accreditation at AMS airport.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
