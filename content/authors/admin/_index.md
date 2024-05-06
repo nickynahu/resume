@@ -39,26 +39,6 @@ profiles:
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BEc Logistics & Economics (bac+4)
     institution: INHOLLAND University
     date_start: 2005-09-01
@@ -120,6 +100,22 @@ work:
       Responsibilities include:
       - EMEA supply chain management of finished goods, parts, and accessories for designer, manufacturer, and seller of professional acoustic guitars
       - Managing warehouse team and distribution in EMEA territory.
+  - position: Import/Export Operations
+    company_name: Pilot Freight Services
+    company_url: ''
+    company_logo: ''
+    date_start: 2012-02-01
+    date_end: 2017-06-30
+    summary: |
+      Responsibilities include:
+      - Handling shipments and files (AWB/BL procedures, customs compliance, etc) from pickup to delivery for international air-, ocean- and trucking services. 
+      - Maintaining contact with global offices and agents abroad, carriers, suppliers, customers and other vendors and internal departments and stakeholders.
+      - Vendor management of air/ocean/trucking carriers and suppliers.
+      - Training new employees.
+      - Create and manage all internal external tariff structures and client proposals.
+      - Local IT management
+      - Set up air/ocean/trucking export departments
+      - IATA accreditation at AMS airport
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
