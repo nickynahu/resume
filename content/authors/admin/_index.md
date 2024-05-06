@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Airfreight Export & Import Operations
+role: Freight forwarder / front-end developer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Broekman Logistics
+  - name: 20-07-1987, living in France (71290)
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
