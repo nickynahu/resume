@@ -57,7 +57,7 @@ work:
   - position: Airfreight Import & Export Operations
     company_name: Broekman Logistics
     company_url: ''
-    company_logo: ''
+    company_logo: 'broekman.png'
     date_start: 2022-03-01
     date_end: ''
     summary: |
