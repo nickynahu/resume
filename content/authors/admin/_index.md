@@ -21,7 +21,7 @@ role: Freight forwarder / front-end developer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 20-07-1987, living in France (71290)
+  - name: Born in 1987, living in France
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
