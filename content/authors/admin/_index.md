@@ -61,7 +61,7 @@ work:
     company_logo: ''
     date_start: 2023-03-01
     date_end: ''
-    summary: |
+    summary: |2
       Responsibilities include:
       - Managing air import and export files from pickup to delivery
       - Maintaining contact with global offices and agents abroad, carriers, suppliers, customers and other vendors and internal departments and stakeholders.
@@ -71,7 +71,7 @@ work:
     company_logo: ''
     date_start: 2021-10-01
     date_end: 2022-07-01
-    summary: |
+    summary: |2
       Responsibilities include:
       - EMEA RFQ/Tender Management within JAS' global tender team
       - Pricing Analysis
@@ -82,7 +82,7 @@ work:
     company_logo: ''
     date_start: 2021-06-01
     date_end: 2019-01-01
-    summary: |
+    summary: |2
       Responsibilities include:
       - Managing warehouse team of 6 people and 2000 SQM warehouse
       - New business implementation and warehouse advisory role to general MT
@@ -93,7 +93,7 @@ work:
     company_logo: ''
     date_start: 2017-07-01
     date_end: 2018-12-31
-    summary: |
+    summary: |2
       Responsibilities include:
       - EMEA supply chain management of finished goods, parts, and accessories for designer, manufacturer, and seller of professional acoustic guitars
       - Managing warehouse team and distribution in EMEA territory.
@@ -103,7 +103,7 @@ work:
     company_logo: ''
     date_start: 2012-01-01
     date_end: 2017-06-31
-    summary: |
+    summary: |2
       Responsibilities include:
       - Handling shipments and files (AWB/BL procedures, customs compliance, etc) from pickup to delivery for int'l air-, ocean- and trucking services. 
       - Maintaining contact with global offices and agents abroad, carriers, suppliers, customers and other vendors and internal departments and stakeholders.
@@ -185,14 +185,14 @@ awards:
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2017-04-25'
     awarder: IATA
-    icon: 
+    icon: cat
     summary: |
       Certificate to handle dangerous goods shipments by air per IATA regulations.
   - title: CargoWise Certified Operator
     url: https://drive.google.com/file/d/1Ld6yaHWuorOyLcf6x4KT4ZyatmQYK2dU/view?usp=sharing
     date: '2024-03-01'
     awarder: WiseTech Academy
-    icon: 
+    icon: cat
     summary: |
 ---
 
