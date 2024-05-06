@@ -75,9 +75,9 @@ work:
     company_name: Broekman Logistics
     company_url: ''
     company_logo: ''
-    date_start: 2022-03-01
+    date_start: 2023-03-01
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Managing air import and export files from pickup to delivery
       - Maintaining contact with global offices and agents abroad, carriers, suppliers, customers and other vendors and internal departments and stakeholders.
