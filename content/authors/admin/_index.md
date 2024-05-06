@@ -48,28 +48,16 @@ education:
     button:
       text: 'Check out the brewery'
       url: 'https://www.jopenbier.nl/jopenkerk/'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Cambridge English Level 5 Certificate in Teaching English to Speakers of Other Languages (CELTA) 
+    institution: Cambridge Assessment English
+    date_start: 2019-09-01
+    date_end: 2019-12-01
     summary: |
-      GPA: 3.8/4.0
+      Pass Grade (B)
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - 200 guided learning hours including 6 hours of teaching practice
+
 work:
   - position: Airfreight Import & Export Operations
     company_name: Broekman Logistics
@@ -109,33 +97,41 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: ERP/WHS systems
-        description: ''
-        percent: 85
-        icon: devicon/python
-      - name: RStudio
+      - name: Airfreight
         description: ''
         percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
+        icon: paper-airplane
+      - name: Road freight (LTL/FTL/Drayage)
         description: ''
-        percent: 40
-        icon: devicon/pytorch
+        percent: 95
+        icon: truck
+      - name: Seafreight (LCL/FCL)
+        description: ''
+        percent: 90
+        icon: devdocker
+      - name: CargoWise
+        description: ''
+        percent: 75
+        icon: computer-desktop
+      - name: ERP/WHS systems
+        description: ''
+        percent: 75
+        icon: cube
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Reading
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        percent: 80
+        icon: book-open
+      - name: Skiing/Surfing
         description: ''
-        percent: 100
+        percent: 75
         icon: cat
       - name: Photography
         description: ''
-        percent: 80
+        percent: 50
         icon: camera
 
 languages:
