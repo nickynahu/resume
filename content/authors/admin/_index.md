@@ -109,33 +109,49 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: ERP/WHS systems
-        description: ''
-        percent: 85
-        icon: devicon/python
-      - name: RStudio
+      - name: Airfreight
         description: ''
         percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
+        icon: paper-airplane
+      - name: Road freight (LTL/FTL)
         description: ''
-        percent: 40
-        icon: devicon/pytorch
+        percent: 95
+        icon: truck
+      - name: Seafreight (LCL/FCL)
+        description: ''
+        percent: 90
+        icon: lifebuoy
+      - name: CargoWise One
+        description: ''
+        percent: 75
+        icon: computer-desktop
+      - name: ERP/WHS systems
+        description: ''
+        percent: 75
+        icon: cube
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+      - name: Reading
         description: ''
         percent: 80
+        icon: book-open
+      - name: Skiing
+        description: ''
+        percent: 75
+        icon: cat
+      - name: Surfing
+        description: ''
+        percent: 75
+        icon: cat
+      - name: Guitar
+        description: ''
+        percent: 75
+        icon: musical-note
+      - name: Photography
+        description: ''
+        percent: 50
         icon: camera
 
 languages:
