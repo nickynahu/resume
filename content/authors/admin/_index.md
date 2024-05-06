@@ -39,15 +39,15 @@ profiles:
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BEc Logistics & Economics (bac+4)
+    institution: INHOLLAND University
+    date_start: 2005-09-01
+    date_end: 2009-09-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis _Logistical framework for pub-brewery in former church_. Supervised by [Prof Roderick Balk]. Presented papers at university to Jopen B.V. with succesful graduation and seen partial implementation in 2010.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: 'Check out the brewery'
+      url: 'https://www.jopenbier.nl/jopenkerk/'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
