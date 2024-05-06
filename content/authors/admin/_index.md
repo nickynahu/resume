@@ -71,37 +71,47 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Airfreight Import & Export Operations
+    company_name: Broekman Logistics
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-03-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Managing air import and export files from pickup to delivery
+      - Maintaining contact with global offices and agents abroad, carriers, suppliers, customers and other vendors and internal departments and stakeholders.
+  - position: Tender Analyst and Coordinator
+    company_name: JAS
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-10-01
+    date_end: 2022-07-01
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - EMEA RFQ/Tender Management within JAS' global tender team
+      - Pricing Analysis
+      - Providing pricing guidelines for regional and country pricing teams
+  - position: Logistics Manager
+    company_name: Pilot Freight Services
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-10-01
+    date_end: 2022-07-01
+    summary: |
+      Responsibilities include:
+      - Managing warehouse team of 6 people and 2000 SQM warehouse
+      - New business implementation and warehouse advisory role to general MT
+      - Position plans, developments, costs, implementations, and manage WH projects
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: ERP/WHS systems
         description: ''
-        percent: 80
+        percent: 85
         icon: devicon/python
       - name: RStudio
         description: ''
@@ -131,9 +141,13 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: Dutch
+    percent: 100
+  - name: French
+    percent: 80
+  - name: German
     percent: 75
-  - name: Portuguese
+  - name: Spanish
     percent: 25
 
 # Awards.
