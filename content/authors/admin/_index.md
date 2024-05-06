@@ -59,17 +59,24 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BEc Logistics & Economics (bac+4)
+    institution: INHOLLAND University
+    date_start: 2005-09-01
+    date_end: 2009-09-01
     summary: |
-      GPA: 3.4/4.0
-      
+      Thesis _Logistical framework for pub-brewery in former church_. Supervised by [Prof Roderick Balk]. Presented papers at university to Jopen B.V. with succesful graduation and seen partial implementation in 2010.
+    button:
+      text: 'Check out the brewery'
+      url: 'https://www.jopenbier.nl/jopenkerk/'
+  - area: Cambridge English Level 5 Certificate in Teaching English to Speakers of Other Languages (CELTA) 
+    institution: Cambridge Assessment English
+    date_start: 2019-09-01
+    date_end: 2019-12-01
+    summary: |
+      Pass Grade (B)
+
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - 200 guided learning hours including 6 hours of teaching practice
 work:
   - position: Airfreight Import & Export Operations
     company_name: Broekman Logistics
