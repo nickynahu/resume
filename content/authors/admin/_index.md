@@ -21,7 +21,7 @@ role: Freight forwarder / front-end developer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Born in 1987, living in France
+  - name: Born in 1987 / living in France (71290)
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -55,7 +55,7 @@ education:
       - 200 guided learning hours including 6 hours of teaching practice
 work:
   - position: Airfreight Import & Export Operations
-    company_name: Broekman Logistics
+    company_name: Broekman Logistics (Hybrid)
     company_url: ''
     company_logo: ''
     date_start: 2022-03-01
@@ -65,7 +65,7 @@ work:
       - Managing air import and export files from pickup to delivery
       - Maintaining contact with global offices and agents abroad, carriers, suppliers, customers and other vendors and internal departments and stakeholders.
   - position: Tender Analyst and Coordinator
-    company_name: JAS
+    company_name: JAS (Paris)
     company_url: ''
     company_logo: ''
     date_start: 2021-10-01
@@ -76,7 +76,7 @@ work:
       - Pricing Analysis
       - Providing pricing guidelines for regional and country pricing teams
   - position: Logistics Manager
-    company_name: Pilot Freight Services
+    company_name: Pilot Freight Services (Amsterdam Airport)
     company_url: ''
     company_logo: ''
     date_start: 2019-01-01
@@ -87,7 +87,7 @@ work:
       - New business implementation and warehouse advisory role to general MT
       - Position plans, developments, costs, implementations, and manage WH projects
   - position: EMEA Logistics Manager
-    company_name: Taylor Guitars
+    company_name: Taylor Guitars (Amsterdam)
     company_url: ''
     company_logo: ''
     date_start: 2017-07-01
@@ -97,26 +97,37 @@ work:
       - EMEA supply chain management of finished goods, parts, and accessories for designer, manufacturer, and seller of professional acoustic guitars
       - Managing warehouse team and distribution in EMEA territory.
   - position: Import/Export Operations
-    company_name: Pilot Freight Services
+    company_name: Pilot Freight Services (Amsterdam Airport)
     company_url: ''
     company_logo: ''
     date_start: 2012-02-01
     date_end: 2017-06-30
     summary: |
       Responsibilities include:
-      - Handling shipments and files (AWB/BL procedures, customs compliance, etc) from pickup to delivery for international air-, ocean- and trucking services. 
+      - Handling air and ocean shipments and files (AWB/BL procedures, customs compliance, etc) from pickup to delivery to and from worldwide origins and destinations.
       - Maintaining contact with global offices and agents abroad, carriers, suppliers, customers and other vendors and internal departments and stakeholders.
       - Vendor management of air/ocean/trucking carriers and suppliers.
       - Training new employees.
       - Create and manage all internal external tariff structures and client proposals.
       - Local IT management
+
+      Accomplishments:
       - Set up air/ocean/trucking export departments
       - IATA accreditation at AMS airport
+    - position: Account Handler
+    company_name: CEVA Logistics
+    company_url: ''
+    company_logo: ''
+    date_start: 2009-10-01
+    date_end: 2010-12-31
+    summary: |
+      Responsibilities include:
+      - EMEA Freight management of major account. Air imports and distribution by FTL road service.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Skills and competencies
     items:
       - name: Airfreight
         description: ''
