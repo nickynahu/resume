@@ -143,34 +143,34 @@ skills:
         description: ''
         percent: 75
         icon: computer-desktop
-      - name: ERP/WHS systems
+      - name: ERP/WHS
         description: ''
         percent: 75
         icon: cube
-  - name: Hobbies
+  - name: Soft Skills
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Reading
+      - name: Communication
         description: ''
-        percent: 80
-        icon: book-open
-      - name: Skiing
+        percent: 100
+        icon: chat-bubble-left-right
+      - name: Teamwork
         description: ''
-        percent: 75
-        icon: cat
-      - name: Surfing
+        percent: 100
+        icon: users
+      - name: Problem-solving
         description: ''
-        percent: 75
-        icon: cat
-      - name: Guitar
+        percent: 100
+        icon: wrench
+      - name: Adaptability
         description: ''
-        percent: 75
-        icon: musical-note
-      - name: Photography
+        percent: 100
+        icon: rectangle-group
+      - name: Critical thinking and analysis
         description: ''
-        percent: 50
-        icon: camera
+        percent: 100
+        icon: chart-pie
 
 languages:
   - name: English
