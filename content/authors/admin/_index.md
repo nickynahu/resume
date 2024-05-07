@@ -184,15 +184,15 @@ awards:
     url: https://www.iata.org/en/programs/cargo/dgr/
     date: '2017-04-25'
     awarder: IATA
-    icon: 'iata-logo-header.svg'
+    icon: iata-logo-header.svg
     summary: |
       IATA Dangerous Goods Regulation Certification to ship dangerous goods by air.
 
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+  - title: CargoWise Certified Operator
+    url: https://drive.google.com/file/d/1Ld6yaHWuorOyLcf6x4KT4ZyatmQYK2dU/view?usp=sharing
+    date: '2024-03-01'
+    awarder: WiseTech Academy
+    icon: cw.png
     summary: |
       Learned:
       - Synthesize your own blockchain solutions
