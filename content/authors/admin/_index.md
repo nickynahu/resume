@@ -110,7 +110,6 @@ work:
       - Training new employees.
       - Create and manage all internal external tariff structures and client proposals.
       - Local IT management
-      Accomplishments:
       - Set up air/ocean/trucking export departments
       - IATA accreditation at AMS airport
   - position: Account Handler
@@ -194,7 +193,7 @@ awards:
     url: https://www.iata.org/en/programs/cargo/dgr/
     date: '2017-04-25'
     awarder: IATA
-    icon: iata
+    icon: seafreight.svg
     summary: |
       IATA Dangerous Goods Regulation Certification to ship dangerous goods by air.
 
@@ -202,7 +201,7 @@ awards:
     url: https://drive.google.com/file/d/1Ld6yaHWuorOyLcf6x4KT4ZyatmQYK2dU/view?usp=sharing
     date: '2024-03-01'
     awarder: WiseTech Academy
-    icon: cargowise
+    icon: seafreight
     summary: |
       
 ---
