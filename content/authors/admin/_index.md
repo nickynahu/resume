@@ -99,7 +99,7 @@ work:
   - position: Import/Export Operations
     company_name: Pilot Freight Services (Amsterdam Airport)
     company_url: ''
-    company_logo: ''
+    company_logo: 'CEVA'
     date_start: 2012-02-01
     date_end: 2017-06-30
     summary: |
@@ -115,7 +115,7 @@ work:
   - position: Account Handler
     company_name: CEVA Logistics
     company_url: ''
-    company_logo: seafreight
+    company_logo: CEVA
     date_start: 2009-10-01
     date_end: 2010-12-31
     summary: |
