@@ -193,7 +193,7 @@ awards:
     url: https://www.iata.org/en/programs/cargo/dgr/
     date: '2017-04-25'
     awarder: IATA
-    icon: cube
+    icon: ''
     summary: |
       IATA Dangerous Goods Regulation Certification to ship dangerous goods by air.
 
