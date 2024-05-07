@@ -125,7 +125,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Skills and competencies
+  - name: Competencies
     items:
       - name: Airfreight
         description: ''
