@@ -110,11 +110,10 @@ work:
       - Training new employees.
       - Create and manage all internal external tariff structures and client proposals.
       - Local IT management
-
       Accomplishments:
       - Set up air/ocean/trucking export departments
       - IATA accreditation at AMS airport
-    - position: Account Handler
+  - position: Account Handler
     company_name: CEVA Logistics
     company_url: ''
     company_logo: seafreight
