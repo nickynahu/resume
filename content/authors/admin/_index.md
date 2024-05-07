@@ -167,7 +167,7 @@ skills:
         description: ''
         percent: 100
         icon: rectangle-group
-      - name: Critical thinking and analysis
+      - name: Analytical
         description: ''
         percent: 100
         icon: chart-pie
