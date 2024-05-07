@@ -193,7 +193,7 @@ awards:
     url: https://www.iata.org/en/programs/cargo/dgr/
     date: '2017-04-25'
     awarder: IATA
-    icon: seafreight.svg
+    icon: CEVA.png
     summary: |
       IATA Dangerous Goods Regulation Certification to ship dangerous goods by air.
 
@@ -201,7 +201,7 @@ awards:
     url: https://drive.google.com/file/d/1Ld6yaHWuorOyLcf6x4KT4ZyatmQYK2dU/view?usp=sharing
     date: '2024-03-01'
     awarder: WiseTech Academy
-    icon: seafreight
+    icon: CEVA
     summary: |
       
 ---
