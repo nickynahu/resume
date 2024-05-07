@@ -117,7 +117,7 @@ work:
     - position: Account Handler
     company_name: CEVA Logistics
     company_url: ''
-    company_logo: ''
+    company_logo: seafreight
     date_start: 2009-10-01
     date_end: 2010-12-31
     summary: |
