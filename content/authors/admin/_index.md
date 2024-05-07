@@ -98,8 +98,8 @@ work:
       - Managing warehouse team and distribution in EMEA territory.
   - position: Import/Export Operations
     company_name: Pilot Freight Services (Amsterdam Airport)
-    company_url: ''
-    company_logo: 'CEVA'
+    company_url: 'https://www.pilotdelivers.com'
+    company_logo: ''
     date_start: 2012-02-01
     date_end: 2017-06-30
     summary: |
@@ -115,7 +115,7 @@ work:
   - position: Account Handler
     company_name: CEVA Logistics
     company_url: ''
-    company_logo: CEVA
+    company_logo: ''
     date_start: 2009-10-01
     date_end: 2010-12-31
     summary: |
@@ -193,7 +193,7 @@ awards:
     url: https://www.iata.org/en/programs/cargo/dgr/
     date: '2017-04-25'
     awarder: IATA
-    icon: CEVA.png
+    icon: cube
     summary: |
       IATA Dangerous Goods Regulation Certification to ship dangerous goods by air.
 
@@ -201,7 +201,7 @@ awards:
     url: https://drive.google.com/file/d/1Ld6yaHWuorOyLcf6x4KT4ZyatmQYK2dU/view?usp=sharing
     date: '2024-03-01'
     awarder: WiseTech Academy
-    icon: CEVA
+    icon: cube
     summary: |
       
 ---
