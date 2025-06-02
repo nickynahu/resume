@@ -53,15 +53,16 @@ education:
       - 200 guided learning hours including 6 hours of teaching practice
 work:
   - position: Tender Analyst (Analyste des Marchés)
-    company_name: Broekman Logistics (Hybrid)
-    company_url: ''
-    company_logo: ''
-    date_start: 2022-03-01
-    date_end: '2024-08-01'
+    company_name: Gebrüder Weiss
+    company_url: 'www.gw-world.com'
+    company_logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg4hyz7okXF_MwRfWmDV2waUlYQ7ANBZ5hZqqBt6M&usqp=CAE&s'
+    date_start: 2024-08-20'
+    date_end: ''
     summary: |
       Responsibilities include:
-      - Managing air import and export files from pickup to delivery
-      - Maintaining contact with global offices and agents abroad, carriers, suppliers, customers and other vendors and internal departments and stakeholders.
+      - EMEA RFQ/Tender Management within GW AS Global tender team
+      - Pricing Analysis
+      - Providing pricing guidelines for regional and country pricing teams
   - position: Airfreight Import & Export Operations
     company_name: Broekman Logistics (Hybrid)
     company_url: ''
