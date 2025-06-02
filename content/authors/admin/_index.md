@@ -53,10 +53,10 @@ education:
       - 200 guided learning hours including 6 hours of teaching practice
 work:
   - position: Tender Analyst (Analyste des Marchés)
-    company_name: Gebrüder Weiss
-    company_url: ''
+    company_name: Gebrueder Weiss (Home Office)
+    company_url: 'https://www.gw-world.com'
     company_logo: ''
-    date_start: 2024-08-20'
+    date_start: 2024-08-20
     date_end: ''
     summary: |
       Responsibilities include:
@@ -68,7 +68,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2022-03-01
-    date_end: '2024-08-01'
+    date_end: 2024-08-01
     summary: |
       Responsibilities include:
       - Managing air import and export files from pickup to delivery
