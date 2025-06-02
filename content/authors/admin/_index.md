@@ -54,8 +54,8 @@ education:
 work:
   - position: Tender Analyst (Analyste des Marchés)
     company_name: Gebrüder Weiss
-    company_url: 'www.gw-world.com'
-    company_logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg4hyz7okXF_MwRfWmDV2waUlYQ7ANBZ5hZqqBt6M&usqp=CAE&s'
+    company_url: ''
+    company_logo: ''
     date_start: 2024-08-20'
     date_end: ''
     summary: |
