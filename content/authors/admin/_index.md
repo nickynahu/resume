@@ -31,11 +31,9 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/nickynahu/
-  - icon: brands/instagram
-    url: https://www.instagram.com/nickynahu/
 
 education:
-  - area: BEc Logistics & Economics (bac+4)
+  - area: BEc Economics (major Supply Chain Management) bac+4
     institution: INHOLLAND University
     date_start: 2005-09-01
     date_end: 2009-09-01
@@ -54,17 +52,27 @@ education:
       Courses included:
       - 200 guided learning hours including 6 hours of teaching practice
 work:
+  - position: Tender Analyst (Analyste des Marchés)
+    company_name: Broekman Logistics (Hybrid)
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-03-01
+    date_end: '2024-08-01'
+    summary: |
+      Responsibilities include:
+      - Managing air import and export files from pickup to delivery
+      - Maintaining contact with global offices and agents abroad, carriers, suppliers, customers and other vendors and internal departments and stakeholders.
   - position: Airfreight Import & Export Operations
     company_name: Broekman Logistics (Hybrid)
     company_url: ''
     company_logo: ''
     date_start: 2022-03-01
-    date_end: ''
+    date_end: '2024-08-01'
     summary: |
       Responsibilities include:
       - Managing air import and export files from pickup to delivery
       - Maintaining contact with global offices and agents abroad, carriers, suppliers, customers and other vendors and internal departments and stakeholders.
-  - position: Tender Analyst and Coordinator
+  - position: Tender Analyst (Analyste des Marchés)
     company_name: JAS (Paris)
     company_url: ''
     company_logo: ''
@@ -95,7 +103,7 @@ work:
     summary: |
       Responsibilities include:
       - EMEA supply chain management of finished goods, parts, and accessories for designer, manufacturer, and seller of professional acoustic guitars
-      - Managing warehouse team and distribution in EMEA territory.
+      - Managing warehouse team and distribution in EMEA territory
   - position: Import/Export Operations
     company_name: Pilot Freight Services (Amsterdam Airport)
     company_url: 'https://www.pilotdelivers.com'
@@ -104,11 +112,11 @@ work:
     date_end: 2017-06-30
     summary: |
       Responsibilities include:
-      - Handling air and ocean shipments and files (AWB/BL procedures, customs compliance, etc) from pickup to delivery to and from worldwide origins and destinations.
-      - Maintaining contact with global offices and agents abroad, carriers, suppliers, customers and other vendors and internal departments and stakeholders.
-      - Vendor management of air/ocean/trucking carriers and suppliers.
-      - Training new employees.
-      - Create and manage all internal external tariff structures and client proposals.
+      - Managing air/ocean/road shipments from pickup to delivery to and from worldwide origins and destinations
+      - Liaising with global offices and agents abroad, carriers, suppliers, customers and other vendors and internal departments and stakeholders.
+      - Vendor management of air/ocean/road carriers and suppliers
+      - Training of new employees
+      - Create and manage all internal external tariff structures and client proposals
       - Local IT management
       - Set up air/ocean/trucking export departments
       - IATA accreditation at AMS airport
@@ -178,11 +186,11 @@ languages:
   - name: Dutch
     percent: 100
   - name: French
-    percent: 80
+    percent: 70
   - name: German
     percent: 75
   - name: Spanish
-    percent: 25
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.
