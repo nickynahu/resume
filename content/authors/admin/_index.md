@@ -53,7 +53,7 @@ education:
       - 200 guided learning hours including 6 hours of teaching practice
 work:
   - position: Tender Analyst (Analyste des Marchés)
-    company_name: Gebrueder Weiss (Home Office)
+    company_name: Gebrüder Weiss (Home Office)
     company_url: 'https://www.gw-world.com'
     company_logo: ''
     date_start: 2024-08-20
@@ -215,4 +215,4 @@ awards:
       
 ---
 
-I am currently a Tender Analyst at Gebrüder Weiss where I do tender management and analysis of global Air and Sea RFQs and tenders.
+I am currently a Tender Analyst at Gebrüder Weiss where I do tender management and analysis of global Air & Sea RFQs and tenders.
