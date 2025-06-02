@@ -67,7 +67,7 @@ work:
     company_name: Broekman Logistics (Hybrid)
     company_url: ''
     company_logo: ''
-    date_start: 2022-03-01
+    date_start: 2023-03-01
     date_end: 2024-08-01
     summary: |
       Responsibilities include:
