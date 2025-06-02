@@ -33,7 +33,7 @@ profiles:
     url: https://github.com/nickynahu/
 
 education:
-  - area: BEc Economics (major Supply Chain Management) bac+4
+  - area: BEc Economics (bac+4) majored in Supply Chain Management
     institution: INHOLLAND University
     date_start: 2005-09-01
     date_end: 2009-09-01
@@ -215,4 +215,4 @@ awards:
       
 ---
 
-I am currently Airfreight Import & Export Operator at Broekman Logistics where I handle day-to-day airfreight operations to and from worldwide destinations.
+I am currently a Tender Analyst at Gebrüder Weiss where I do tender management and analysis of global Air and Sea RFQs and tenders.
